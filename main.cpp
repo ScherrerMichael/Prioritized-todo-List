@@ -1,7 +1,7 @@
 // Michael Scherrer
 // CS202 - programming systems
 // Portland State university
-// Program 3
+// Program 3 - priority organizer
 //  -- MAIN -- 
 
 #include "Tree.h"
